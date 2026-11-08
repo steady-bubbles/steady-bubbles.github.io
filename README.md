@@ -13,4 +13,6 @@ folder of the same name.
 | | Leonardo da Vinci's paradox (coming soon) | |
 
 To add a project: put its built page in a new folder (`<name>/index.html`), add a line to the
-list in `index.html` and to the table above. Every project page links back to the menu.
+list in `index.html` and to the table above. Every project page links back to the menu with the
+absolute address `https://steady-bubbles.github.io/`, so the link also works from a local copy.
+The empty file `.nojekyll` must stay: it makes GitHub Pages serve the files as they are.
