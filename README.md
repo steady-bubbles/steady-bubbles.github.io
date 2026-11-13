@@ -10,7 +10,7 @@ folder of the same name.
 | folder | page | source |
 |---|---|---|
 | `axisymmetric/` | [steady-bubbles.github.io/axisymmetric](https://steady-bubbles.github.io/axisymmetric/) | [steady-bubbles/axisymmetric](https://github.com/steady-bubbles/axisymmetric) |
-| | Spiraling (coming soon) | |
+| `spiraling/` | [steady-bubbles.github.io/spiraling](https://steady-bubbles.github.io/spiraling/) | |
 
 To add a project: put its built page in a new folder (`<name>/index.html`), add a line to the
 list in `index.html` and to the table above. Every project page links back to the menu with the
